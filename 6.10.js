@@ -7,7 +7,9 @@ const pedidos = [
 ];
 
 
-//1-Crie um novo array contendo apenas pedidos com status "aprovado"
+
 const pedidoaprovados=pedidos.filter(pedido => pedido.status === "aprovado")
+.map(pedido => pedido.cliente);
 console.log("APROVADOS=\n", pedidoaprovados)
+
 
