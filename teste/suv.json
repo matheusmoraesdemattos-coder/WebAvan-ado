@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Pulse",
+    "marca": "Fiat",
+    "ano": 2022
+  },
+  {
+    "id": 2,
+    "nome": "Creta:",
+    "marca": "Hyundai",
+    "ano": 2023
+  }
+]
